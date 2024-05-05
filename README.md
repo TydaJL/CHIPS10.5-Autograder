@@ -17,6 +17,7 @@ This repo currently consists of only one folder, `/features`, and one script, `a
 3. Replace the `web_steps.rb` file in Codio with the `web_steps.rb`
 
 (Not tested well enough yet--it seems to massively lag Codio for some reason, but it works some of the time)
+(For now, you can just run the Cucumber tests as you normally would in the Terminal)
 4. Finally, you may run the autograder by calling `ruby autograder.rb`.
 
 
